@@ -8,4 +8,4 @@
 
 - [Click Here](./css/styles.css) for CSS Styling.
 
-- [Click Here]() for web preview
+- [Click Here](https://github-profilepage-design-task.netlify.app/) for web preview
